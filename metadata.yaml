@@ -1,4 +1,8 @@
 _repo: Schools-of-to-morrow_48906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48906-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dewey, Evelyn
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/446
     wikipedia: http://en.wikipedia.org/wiki/John_Dewey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48906#Schools-of-to-morrow
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
